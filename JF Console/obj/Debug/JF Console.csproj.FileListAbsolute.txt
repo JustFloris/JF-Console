@@ -1,0 +1,6 @@
+c:\users\flori\source\repos\JF Console\JF Console\bin\Debug\JF Console.exe.config
+c:\users\flori\source\repos\JF Console\JF Console\bin\Debug\JF Console.exe
+c:\users\flori\source\repos\JF Console\JF Console\bin\Debug\JF Console.pdb
+c:\users\flori\source\repos\JF Console\JF Console\obj\Debug\JF Console.csproj.CoreCompileInputs.cache
+c:\users\flori\source\repos\JF Console\JF Console\obj\Debug\JF Console.exe
+c:\users\flori\source\repos\JF Console\JF Console\obj\Debug\JF Console.pdb
