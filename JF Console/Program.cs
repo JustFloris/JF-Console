@@ -383,7 +383,7 @@ namespace JF_Console
                                 {
                                 Console.ForegroundColor = ConsoleColor.Green;
                                 Console.WriteLine();
-                                Console.WriteLine("SUCCES");
+                                Console.WriteLine("SUCCASS");
                                 Console.WriteLine();
                                 }
                         break;
